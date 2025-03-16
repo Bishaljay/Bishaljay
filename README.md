@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bishal Jaysawal</h1>
-<h3 align="center">A passionate Machine Learning Engineer from Nepal</h3>
+<h3 align="center">A passionate Computer Science Engineer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishaljay&label=Profile%20views&color=0e75b6&style=flat" alt="bishaljay" /> </p>
 
