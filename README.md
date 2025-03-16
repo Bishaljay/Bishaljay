@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Data Analytics Project**
 
-- 🤝 I’m looking for help with **Machine Learning**
-
 - 💬 Ask me about **Machine Learning**
 
 - 📫 How to reach me **bjbishal075@gmail.com**
