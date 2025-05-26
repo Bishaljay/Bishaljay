@@ -14,13 +14,23 @@
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1S3VvuJs3DkEVWpTha_bXtQxp3zwgUyFb/view?usp=drivesdk)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/bishal-7bj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/bishal-7bj" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/bishal.jaysawal.5?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/bishal.jaysawal.5?mibextid=zbwkwl" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_jbishal7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_jbishal7/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/bishaljaysawal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/bishaljaysawal/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/bjbishzfmy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/bjbishzfmy/" height="30" width="40" /></a>
-<a href="https://discord.gg/http://discordapp.com/users/1223195588384919636" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="http://discordapp.com/users/1223195588384919636" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/bishal-7bj" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bishal-7bj" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/bishal.jaysawal.5?mibextid=zbwkwl" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bishal.jaysawal.5" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/_jbishal7/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_jbishal7" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/bishaljaysawal/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bishaljaysawal" height="30" width="40" />
+  </a>
+  <a href="http://discordapp.com/users/1223195588384919636" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord user 1223195588384919636" height="30" width="40" />
+  </a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
