@@ -23,14 +23,13 @@
   <a href="https://www.instagram.com/_jbishal7/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_jbishal7" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/u/bishaljaysawal/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bishaljaysawal" height="30" width="40" />
+  <a href="https://takeuforward.org/profile/Bishal07" target="blank">
+    <img align="center" src="https://avatars.githubusercontent.com/u/94910945?s=200&v=4" alt="Striver - TakeUForward" height="30" width="40" />
   </a>
   <a href="http://discordapp.com/users/1223195588384919636" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord user 1223195588384919636" height="30" width="40" />
   </a>
 </p>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
