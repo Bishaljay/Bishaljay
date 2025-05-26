@@ -1,15 +1,19 @@
-<h1 align="center">Hi 👋, I'm Bishal Jaysawal</h1>
-<h3 align="center">A passionate Computer Science Engineer from Nepal</h3>
+<h1 align="center">Hi 👋, I'm <span style="color:#007ACC;">Bishal Jaysawal</span></h1>
+<h3 align="center">🎓 Passionate Computer Science Engineer from Nepal 🇳🇵</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bishaljay&label=Profile%20views&color=0e75b6&style=flat" alt="bishaljay" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bishaljay&label=Profile%20views&color=0e75b6&style=flat" alt="bishaljay" />
+</p>
+
+---
+
+### 🚀 About Me
 
 - 🌱 I’m currently learning **Machine Learning & Deep Learning**
+- 🤝 I’m open to collaborating on **Data Analytics Projects**
+- 💬 Ask me about **Machine Learning, Python, or Data Visualization**
+- 📫 Reach me at: **bjbishal075@gmail.com**
 
-- 👯 I’m looking to collaborate on **Data Analytics Project**
-
-- 💬 Ask me about **Machine Learning**
-
-- 📫 How to reach me **bjbishal075@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1S3VvuJs3DkEVWpTha_bXtQxp3zwgUyFb/view?usp=drivesdk)
 <h3 align="left">Connect with me:</h3>
