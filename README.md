@@ -13,7 +13,7 @@ Medical Image Analysis, Computer Vision, and Data Analytics.
 
 ### 🚀 About Me
 
-- 🎓 B.Tech CSE Student at **C. V. Raman Global University**
+- 🎓 Graduate in Computer Science & Engineering from **C. V. Raman Global University**
 - 🤖 Passionate about **AI, Deep Learning, Computer Vision & Healthcare AI**
 - 📚 Published research papers in **IEEE, Springer, IET, IEI & Taylor & Francis**
 - 🧠 Worked on **CNN, Transformer & YOLO-based models**
