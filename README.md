@@ -1,178 +1,96 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=bishaljaysawal&label=Profile%20Views&color=0e75b6&style=flat" alt="bishaljaysawal" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Bishal Jaysawal</h1>
-<h3 align="center">Computer Science Engineer | ML & DL Enthusiast | Aspiring Data Analyst</h3>
+
+<h3 align="center">
+AI & Deep Learning Enthusiast | Researcher | Aspiring Data Analyst
+</h3>
+
+<p align="center">
+Computer Science Engineering student passionate about Artificial Intelligence, 
+Medical Image Analysis, Computer Vision, and Data Analytics.
+</p>
 
 ---
 
-### 👨‍💻 About Me
+### 🚀 About Me
 
-- 🌱 Currently learning **Machine Learning & Deep Learning**
-- 🤝 Open to collaborating on **Data Analytics & ML Projects**
-- 💬 Ask me about **Machine Learning, Data Analysis, and Python**
-- 📫 Reach me at: **bjbishal075@gmail.com**
-- 📄 Know more about my experience:  
-  <a href="https://drive.google.com/file/d/1S3VvuJs3DkEVWpTha_bXtQxp3zwgUyFb/view?usp=drivesdk" target="_blank">Resume</a>
+- 🎓 B.Tech CSE Student at **C. V. Raman Global University**
+- 🤖 Passionate about **AI, Deep Learning, Computer Vision & Healthcare AI**
+- 📚 Published research papers in **IEEE, Springer, IET, IEI & Taylor & Francis**
+- 🧠 Worked on **CNN, Transformer & YOLO-based models**
+- 📊 Skilled in **Python, TensorFlow, Scikit-learn, SQL & Power BI**
+- 🌱 Currently exploring **Advanced Deep Learning & Data Analytics**
+- 🤝 Open to collaborations on **AI/ML Research & Data Science Projects**
+- 💬 Ask me about **Machine Learning, Deep Learning, Python & Data Analytics**
 
 ---
 
 ### 🌐 Connect with Me
 
 <p align="left">
-  
 <a href="https://linkedin.com/in/bishal-7bj" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-       alt="LinkedIn" 
-       height="30" 
-       width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 
-<a href="https://www.instagram.com/_jbishal7/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
-       alt="Instagram" 
-       height="30" 
-       width="40" />
+<a href="https://github.com/Bishaljay" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="40" />
 </a>
 
 <a href="https://leetcode.com/u/bishaljaysawal/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
-       alt="LeetCode" 
-       height="30" 
-       width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
 </a>
 
 <a href="https://medium.com/@bishal07" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" 
-       alt="Medium" 
-       height="30" 
-       width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" />
 </a>
 
-<a href="http://discordapp.com/users/1223195588384919636" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" 
-       alt="Discord" 
-       height="30" 
-       width="40" />
+<a href="https://scholar.google.com/citations?user=4odd99AAAAAJ&hl=en" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/512/2702/2702134.png" height="30" width="30" />
 </a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="40" height="40"/>
 
 </p>
 
 ---
 
-### 🧰 Languages & Tools
+### 🏆 Achievements
 
-#### 🧮 Programming & Scripting
+- 🥇 Best Paper Award – IEI Odisha State Centre
+- 📄 Multiple Publications in IEEE, Springer & IET
+- ☁️ Oracle OCI 2025 Certified Data Science Professional
+- 🎖️ Google Student Ambassador
+- 🌍 Aspire Leaders Program Scholar
+- 🎓 Study in India (SII) Scholarship Recipient
 
-<p align="left">
+---
 
-<a href="https://www.cprogramming.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" 
-       alt="C" 
-       width="40" 
-       height="40" />
-</a>
+### 📈 GitHub Stats
 
-<a href="https://www.python.org" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
-       alt="Python" 
-       width="40" 
-       height="40" />
-</a>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Bishaljay&show_icons=true&theme=tokyonight" />
+</p>
 
-<a href="https://www.java.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
-       alt="Java" 
-       width="40" 
-       height="40" />
-</a>
-
-<a href="https://www.w3.org/html/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" 
-       alt="HTML5" 
-       width="40" 
-       height="40" />
-</a>
-
-<a href="https://www.w3schools.com/css/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" 
-       alt="CSS3" 
-       width="40" 
-       height="40" />
-</a>
-
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bishaljay&theme=tokyonight" />
 </p>
 
 ---
 
-#### 📊 Databases
+### 📫 Reach Me
 
-<p align="left">
-
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" 
-       alt="MySQL" 
-       width="40" 
-       height="40" />
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" 
-       alt="MongoDB" 
-       width="40" 
-       height="40" />
-</a>
-
-<a href="https://www.oracle.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" 
-       alt="Oracle" 
-       width="40" 
-       height="40" />
-</a>
-
-</p>
-
----
-
-#### 🤖 Machine Learning & Data
-
-<p align="left">
-
-<a href="https://scikit-learn.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" 
-       alt="Scikit Learn" 
-       width="40" 
-       height="40" />
-</a>
-
-<a href="https://seaborn.pydata.org/" target="_blank">
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" 
-       alt="Seaborn" 
-       width="40" 
-       height="40" />
-</a>
-
-<a href="https://www.tensorflow.org" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" 
-       alt="TensorFlow" 
-       width="40" 
-       height="40" />
-</a>
-
-</p>
-
----
-
-#### ☁️ Cloud
-
-<p align="left">
-
-<a href="https://cloud.google.com" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" 
-       alt="Google Cloud" 
-       width="40" 
-       height="40" />
-</a>
-
-</p>
+📧 **bjbishal075@gmail.com**
