@@ -82,19 +82,11 @@ Medical Image Analysis, Computer Vision, and Data Analytics.
 ## 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img height="180em" 
-       src="https://github-readme-stats.vercel.app/api?username=Bishaljay&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github" />
-       
-  <img height="180em" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bishaljay&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bishaljay&theme=tokyonight&hide_border=true&border_radius=15" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bishaljay&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Bishaljay&theme=tokyonight&no-frame=true&row=1&column=4" />
 </p>
 
 <p align="center">
