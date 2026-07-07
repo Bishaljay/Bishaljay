@@ -76,23 +76,6 @@ Medical Image Analysis, Computer Vision, and Data Analytics.
 - 🎖️ Google Student Ambassador
 - 🌍 Aspire Leaders Program Scholar
 - 🎓 Study in India (SII) Scholarship Recipient
-
----
-
-## 📈 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bishaljay&theme=tokyonight&hide_border=true&border_radius=15" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bishaljay&theme=tokyonight&no-frame=true&row=1&column=4" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bishaljay&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
-</p>
-
 ---
 
 ### 📫 Reach Me
